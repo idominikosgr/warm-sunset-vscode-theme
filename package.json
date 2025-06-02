@@ -3,7 +3,7 @@
   "displayName": "Warm Sunset Theme",
   "description": "A beautiful theme with warm and cozy colors for both light and dark environments",
   "version": "1.0.0",
-  "publisher": "your-publisher-name",
+  "publisher": "idominikosgr",
   "engines": {
     "vscode": "^1.15.0"
   },
@@ -33,12 +33,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/warm-sunset-theme"
+    "url": "https://github.com/idominikosgr/warm-sunset-vscode-theme"
   },
   "bugs": {
-    "url": "https://github.com/your-username/warm-sunset-theme/issues"
+    "url": "https://github.com/idominikosgr/warm-sunset-vscode-theme/issues"
   },
-  "homepage": "https://github.com/your-username/warm-sunset-theme#readme",
+  "homepage": "https://github.com/idominikosgr/warm-sunset-vscode-theme#readme",
   "galleryBanner": {
     "color": "#FA906E",
     "theme": "dark"

@@ -60,7 +60,7 @@ Once you've published your theme, you can add screenshots here:
 
 If you prefer to install manually:
 
-1. Download the latest release from the [GitHub repository](https://github.com/yourusername/warm-sunset-theme)
+1. Download the latest release from the [GitHub repository](https://github.com/idominikosgr/warm-sunset-vscode-theme)
 2. Unzip the downloaded file
 3. Copy the folder to your VS Code extensions directory:
    - **Windows**: `%USERPROFILE%\.vscode\extensions`
@@ -93,7 +93,7 @@ Example:
 
 Contributions are welcome! Feel free to:
 
-1. [Fork the repository](https://github.com/yourusername/warm-sunset-theme/fork)
+1. [Fork the repository](https://github.com/idominikosgr/warm-sunset-vscode-theme/fork)
 2. Create your feature branch: `git checkout -b my-new-feature`
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
@@ -105,5 +105,5 @@ This theme is licensed under the [MIT License](LICENSE)
 
 ## 👏 Credits
 
-- Created with ❤️ by Your Name
+- Created with ❤️ by idominikosgr
 - Inspired by the warm colors of a sunset
