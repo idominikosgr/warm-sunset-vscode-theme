@@ -1,0 +1,53 @@
+{
+  "name": "warm-sunset-theme",
+  "displayName": "Warm Sunset Theme",
+  "description": "A beautiful theme with warm and cozy colors for both light and dark environments",
+  "version": "1.0.0",
+  "publisher": "your-publisher-name",
+  "engines": {
+    "vscode": "^1.15.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "warm",
+    "sunset",
+    "cozy",
+    "light theme",
+    "dark theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Warm Sunset - Light",
+        "uiTheme": "vs",
+        "path": "./themes/warm-sunset-light-color-theme.json"
+      },
+      {
+        "label": "Warm Sunset - Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/warm-sunset-dark-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/warm-sunset-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/warm-sunset-theme/issues"
+  },
+  "homepage": "https://github.com/your-username/warm-sunset-theme#readme",
+  "galleryBanner": {
+    "color": "#FA906E",
+    "theme": "dark"
+  },
+  "license": "MIT",
+  "scripts": {
+    "package": "vsce package"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.4.0"
+  }
+}
