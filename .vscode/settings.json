@@ -1,4 +1,6 @@
 {
     "editor.formatOnSave": false,
     "python.linting.enabled": false,
+    "editor.fontFamily": "Hack Nerd Font Mono",
+    "editor.wordWrap": "on",
 }
