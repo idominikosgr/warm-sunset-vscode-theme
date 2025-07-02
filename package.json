@@ -2,8 +2,9 @@
   "name": "warm-sunset-theme",
   "displayName": "Warm Sunset Theme",
   "description": "A beautiful theme with warm and cozy colors for both light and dark environments",
-  "version": "1.0.0",
-  "publisher": "idominikosgr",
+  "version": "1.0.2",
+  "publisher": "entro314labs",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.15.0"
   },
@@ -48,6 +49,6 @@
     "package": "vsce package"
   },
   "devDependencies": {
-    "@vscode/vsce": "^3.4.0"
+    "@vscode/vsce": "^3.6.0"
   }
 }

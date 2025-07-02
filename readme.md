@@ -5,7 +5,7 @@
 *A beautiful VS Code theme that brings the magic of golden hour to your coding experience*
 
 [![VS Code Marketplace](https://img.shields.io/badge/VS%20Code-Marketplace-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=idominikosgr.warm-sunset-theme)
-[![Version](https://img.shields.io/badge/version-1.0.0-orange?style=for-the-badge)](https://github.com/idominikosgr/warm-sunset-vscode-theme)
+[![Version](https://img.shields.io/badge/version-1.0.2-orange?style=for-the-badge)](https://github.com/idominikosgr/warm-sunset-vscode-theme)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
 
 **Transform your coding environment with warm, cozy colors that reduce eye strain and create a delightful development experience.**
@@ -17,11 +17,6 @@
 ---
 
 ## 🌅 Preview
-
-*Screenshots will be added after the first release.*
-
-
-Once you've published your theme, you can add screenshots here:
 
 ### Light Theme
 ![Light Theme Preview](images/light-preview.png)
@@ -213,7 +208,7 @@ Want to add your personal touch? Here's how to customize:
 
 Love the theme? Here's how you can contribute:
 
-<div align="center">
+<div align="Left">
 
 | 🐛 **Found a bug?** | 💡 **Have an idea?** | ⭐ **Love it?** |
 |:---:|:---:|:---:|
@@ -230,7 +225,7 @@ Love the theme? Here's how you can contribute:
 
 ---
 
-<div align="center">
+<div align="Left">
 
 ## � **License & Credits**
 
