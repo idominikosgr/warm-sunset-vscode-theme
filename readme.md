@@ -1,11 +1,14 @@
 <div align="center">
 
-# 🌅 Warm Sunset Theme
+![Icon](images/icon.png)
+
+
+# Warm Sunset Theme
 
 *A beautiful VS Code theme that brings the magic of golden hour to your coding experience*
 
 [![VS Code Marketplace](https://img.shields.io/badge/VS%20Code-Marketplace-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=idominikosgr.warm-sunset-theme)
-[![Version](https://img.shields.io/badge/version-1.0.2-orange?style=for-the-badge)](https://github.com/idominikosgr/warm-sunset-vscode-theme)
+[![Version](https://img.shields.io/badge/version-1.0.3-orange?style=for-the-badge)](https://github.com/idominikosgr/warm-sunset-vscode-theme)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
 
 **Transform your coding environment with warm, cozy colors that reduce eye strain and create a delightful development experience.**
