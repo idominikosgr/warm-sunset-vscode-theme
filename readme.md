@@ -20,15 +20,17 @@
 
 *Screenshots will be added after the first release.*
 
-<!--
+
 Once you've published your theme, you can add screenshots here:
 
 ### Light Theme
 ![Light Theme Preview](images/light-preview.png)
+![Light Theme Preview](images/light-preview2.png)
 
 ### Dark Theme
 ![Dark Theme Preview](images/dark-preview.png)
--->
+![Dark Theme Preview](images/dark-preview2.png)
+
 
 ## 🎯 **Why Choose Warm Sunset?**
 
